@@ -1,2 +1,2 @@
 ### 🟪  user.js
-`user.js` is a configuration file that can control hundreds of Firefox settings.
+[`user.js`](http://kb.mozillazine.org/User.js_file) configuration file for [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) designed to harden browser settings and make it more secure.
